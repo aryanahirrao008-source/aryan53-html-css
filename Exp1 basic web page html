@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>MIT WPU</title>  
+  </head>
+  <body>
+    
+    <h1>Integrated program</h1>
+    <p>cse div A SY</p>
+    
+    <table border="5">
+      <tr>
+        <th>name</th>
+        <th>age</th>
+        <th>program</th>
+      </tr>
+      
+      <tr>
+        <td>raghav</td>
+        <td>19</td>
+        <td>hotel management</td>
+      </tr>
+      
+      <tr>
+        <td>akhil</td>
+        <td>19</td>
+        <td>astronomy</td>
+      </tr>
+    </table>
+    
+    <h3>unordered list</h3>
+    <ul>
+      <li>library</li>
+      <li>sports</li>
+      <li>canteen</li>
+    </ul>
+    
+    <h3>ordered list</h3>
+    <ol>
+      <li>computers</li>
+      <li>tabs</li>
+      <li>black board</li>
+    </ol>
+   
+   <h3> links</h3> 
+   <p>visit<a href="https://mitwpu.in/"> mit website!
+   </a></p> 
+ 
+ <h3>image</h3>
+ 
+ <img src="https://mitwpu.edu.in/uploads/images/Green_Campus_01.webp" width="200px">
+ 
+ <h3>video</h3> 
+  <video width="300"  height="250"  controls>
+    <source src="https://www.youtube.com/watch?v=6tbemaACUKA"
+    type="video/mp4"
+  </video>
+  
+  <h3>audio</h3>
+  <audio controls>
+    <source src=https://soundcloud.com/soundhelix/the-stationary-ark?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing.mp3
+  type="audio/mp3>"
+  </audio>
+    
+ 
+  </body>
+  </html>
